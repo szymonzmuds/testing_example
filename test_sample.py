@@ -3,4 +3,4 @@ def increment(x):
 
 
 def test_ans():
-	assert increment(3) == 5
+	assert increment(4) == 5
